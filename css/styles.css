@@ -1,0 +1,28 @@
+.allimages{
+    display:grid;
+    grid-template-columns: 50% 50% 50%;
+
+}
+.container {
+    background-image: images;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+nav {
+    list-style-type:none;
+    margin: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+a {
+    display:inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+a:hover {
+    background-color: grey;
+}
+
