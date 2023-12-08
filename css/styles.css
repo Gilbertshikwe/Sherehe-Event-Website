@@ -59,6 +59,7 @@ div.butt {
     width: 25%;
     text-align: center;
     color: white;
+    height: 50%;
   }
   #item2 {
     float: left;
@@ -66,6 +67,7 @@ div.butt {
     width: 25%;
     text-align: center;
     color: white;
+    height: 50%;
     
   }
   #item3 {
@@ -74,13 +76,15 @@ div.butt {
     width: 25%;
     text-align: center;
     color: white;
+    height: 50%;
   }
   #item4 {
     float: left;
     background-color: black;
     width: 25%;
     text-align: center;
-    color: white; 
+    color: white;
+    height: 50%; 
 
   }
 h1 {
