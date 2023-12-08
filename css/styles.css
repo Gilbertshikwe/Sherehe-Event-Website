@@ -25,4 +25,17 @@ a {
 a:hover {
     background-color: grey;
 }
-
+div.images {
+    margin:5px;
+    border:2px solid grey;
+    float:left;
+    width:200px;
+}
+div.images img{
+    width: 100%;
+    height:auto;
+}
+div.butt {
+    padding: 13px;
+    text-align: center;
+}
