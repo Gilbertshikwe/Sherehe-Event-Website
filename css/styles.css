@@ -9,6 +9,8 @@ body {
 }
 header {
     text-align: center;
+    background: fixed;
+    position: sticky;
 }
 .allimages{
     display:block;
