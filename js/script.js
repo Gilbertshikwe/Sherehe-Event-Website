@@ -58,3 +58,16 @@ function changetext11() {
     "Location: Freedom City, Entebbe Road"+"<br>"+
     "Host : INTERNATIONAL CITY DESIGNERS LIMITED"
 }
+function alert1() {
+    alert("Uko Nyumbani.Tafuta Sherehe Sasa.")
+}
+function alert2(){
+    alert("Angalia Sherehe Hapa Down")
+}
+function alert3(){
+    alert("Unafaa Kutokea Hizi Sherehe")
+}
+function alert4(){
+    alert("Tupigie")
+}
+
